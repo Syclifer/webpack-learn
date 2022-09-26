@@ -5,7 +5,7 @@ function test(x, y){
 console.log(test(1,2))
 
 function fxj(){
-    let a = test(2,2)
+    let a = test(3,2)
     console.log('111', a)
 }
 fxj()
