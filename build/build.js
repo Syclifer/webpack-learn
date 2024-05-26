@@ -1,1 +1,0 @@
-(()=>{function o(o,n){return o+n}console.log(o(1,2)),function(){let n=o(2,2);console.log("111",n)}()})();

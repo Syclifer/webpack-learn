@@ -1,3 +1,4 @@
+import './css/test.less'
 function test(x, y){
     return x + y
 }
